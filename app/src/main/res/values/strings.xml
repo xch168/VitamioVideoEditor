@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">VideoEditor</string>
+    <string name="action_cancel">取消</string>
+    <string name="imageview_content_description"></string>
+
+    <string name="loading_tips">加载中…</string>
+    <string name="nodata">没有数据</string>
+    <string name="record_camera_import_video_folder_title">相册</string>
+    <string name="dialog_encoding_text">视频处理中...</string>
+    <string name="record_camera_import_tips">拖动画面可以调整\n视频的显示位置</string>
+    <string name="importVideo_tips_select">左右滑动时间轴，截取你想要的视频片段</string>
+    <string name="background_color_textview">背景颜色:</string>
+    <string name="nexttip">下一步</string>
+    <string name="record_camera_import_title6">裁剪</string>
+    <string name="record_camera_import_video_exists">视频不存在</string>
+    <string name="video_import_duration_too_short">视频太短</string>
+    <string name="record_check_available_faild">手机满了！至少需要%sM存储空间才能继续拍摄！</string>
+    <string name="video_transcoding_faild">视频转码失败</string>
+</resources>

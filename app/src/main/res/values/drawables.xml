@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="transparent">#00000000</drawable>
+
+    <drawable name="import_folder_item_pressed">#434345</drawable>
+</resources>
